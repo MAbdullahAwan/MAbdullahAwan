@@ -48,6 +48,7 @@ Have a website, eCommerce, API integration, payment integration, SaaS, or custom
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Quberiq%20Technologies-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/quberiq-technologies/)
 [![Instagram](https://img.shields.io/badge/Instagram-@quberiqtechnologies-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quberiqtechnologies)
 [![Email](https://img.shields.io/badge/Email-contact@quberiqtechnologies.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@quberiqtechnologies.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@QuberiqTechnologies-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QuberiqTechnologies)
 
 </div>
 
