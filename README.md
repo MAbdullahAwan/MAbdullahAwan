@@ -2,7 +2,7 @@
 
 # Muhammad Abdullah
 
-### Web Developer | API & Payment Integrations | Co-Founder @ Quberiq Technologies
+### Web Developer | API & Payment Integrations | CEO & Founder @ Quberiq Technologies
 
 Building scalable web experiences, eCommerce solutions, APIs, integrations, and business-focused digital products.
 
