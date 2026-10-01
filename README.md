@@ -104,7 +104,7 @@ Have a website, eCommerce, API integration, payment integration, SaaS, or custom
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MAbdullahAwan&label=Profile%20Views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+![Profile Views](https://view-counter.tobyhagan.com/?user=MAbdullahAwan&flat=true)
 
 **Build. Integrate. Optimize. Scale.**
 
