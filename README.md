@@ -64,11 +64,11 @@ Have a website, eCommerce, API integration, payment integration, SaaS, or custom
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MAbdullahAwan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="Muhammad Abdullah GitHub stats" />
+<img src="./profile/stats.svg" height="170" alt="Muhammad Abdullah GitHub stats" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=MAbdullahAwan&theme=github-dark-blue&hide_border=true" alt="Muhammad Abdullah GitHub contribution streak" />
+<img src="./profile/streak.svg" alt="Muhammad Abdullah GitHub contribution streak" />
 
 <br>
 
@@ -81,7 +81,7 @@ Have a website, eCommerce, API integration, payment integration, SaaS, or custom
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MAbdullahAwan&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub trophies" />
+  <img src="./profile/trophy.svg" alt="GitHub trophies" />
 </div>
 
 ---
