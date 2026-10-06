@@ -41,10 +41,17 @@ jobs:
           path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate top contributed repositories card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+          OUTPUT_PATH: profile/top-repos.svg
+        run: python3 .github/scripts/generate_top_repos.py
+
       - name: Commit generated profile cards
         shell: bash
         run: |
-          git add profile/stats.svg profile/streak.svg profile/trophy.svg
+          git add profile/stats.svg profile/streak.svg profile/trophy.svg profile/top-repos.svg
           if git diff --cached --quiet; then
             echo "Profile cards are already up to date."
             exit 0

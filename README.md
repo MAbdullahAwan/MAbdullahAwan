@@ -89,7 +89,7 @@ Have a website, eCommerce, API integration, payment integration, SaaS, or custom
 ## Top Contributed Repositories
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MAbdullahAwan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
+  <img src="./profile/top-repos.svg" alt="Top contributed repositories" />
 </div>
 
 ---
