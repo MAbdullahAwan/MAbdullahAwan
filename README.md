@@ -6,10 +6,11 @@
 
 Building scalable web experiences, eCommerce solutions, APIs, integrations, and business-focused digital products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-161B22?style=flat-square&logo=googlechrome&logoColor=white&labelColor=30363D)](https://abdullah.quberiqtechnologies.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Abdullah-161B22?style=flat-square&logo=linkedin&logoColor=white&labelColor=30363D)](https://linkedin.com/in/m-abdullah-awan/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40abdullah.awan_521-161B22?style=flat-square&logo=instagram&logoColor=white&labelColor=30363D)](https://instagram.com/abdullah.awan_521)
-[![Email](https://img.shields.io/badge/Email-Collaborate-161B22?style=flat-square&logo=gmail&logoColor=white&labelColor=30363D)](mailto:abdullah@quberiqtechnologies.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1683C4)](https://abdullah.quberiqtechnologies.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Abdullah-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/m-abdullah-awan/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40abdullah.awan_521-0D1117?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/abdullah.awan_521)
+[![Email](https://img.shields.io/badge/Email-abdullah%40quberiqtechnologies.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:abdullah@quberiqtechnologies.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MAbdullahAwan-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=343B45)](https://github.com/MAbdullahAwan)
 
 </div>
 
@@ -38,17 +39,17 @@ Building scalable web experiences, eCommerce solutions, APIs, integrations, and 
 
 Have a website, eCommerce, API integration, payment integration, SaaS, or custom development project?
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-161B22?style=flat-square&logo=gmail&logoColor=white&labelColor=30363D)](mailto:abdullah@quberiqtechnologies.com)
+[![Email](https://img.shields.io/badge/Email-abdullah%40quberiqtechnologies.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:abdullah@quberiqtechnologies.com)
 
 <br>
 
 ### Quberiq Technologies
 
-[![Website](https://img.shields.io/badge/Website-Quberiq%20Technologies-161B22?style=flat-square&logo=googlechrome&logoColor=white&labelColor=30363D)](https://quberiqtechnologies.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Quberiq%20Technologies-161B22?style=flat-square&logo=linkedin&logoColor=white&labelColor=30363D)](https://linkedin.com/company/quberiq-technologies/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40quberiqtechnologies-161B22?style=flat-square&logo=instagram&logoColor=white&labelColor=30363D)](https://www.instagram.com/quberiqtechnologies)
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-161B22?style=flat-square&logo=gmail&logoColor=white&labelColor=30363D)](mailto:contact@quberiqtechnologies.com)
-[![GitHub](https://img.shields.io/badge/GitHub-QuberiqTechnologies-161B22?style=flat-square&logo=github&logoColor=white&labelColor=30363D)](https://github.com/QuberiqTechnologies)</div>
+[![Website](https://img.shields.io/badge/Website-Quberiq%20Technologies-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1683C4)](https://quberiqtechnologies.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Quberiq%20Technologies-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/company/quberiq-technologies/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40quberiqtechnologies-0D1117?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/quberiqtechnologies)
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:contact@quberiqtechnologies.com)
+[![GitHub](https://img.shields.io/badge/GitHub-QuberiqTechnologies-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=343B45)](https://github.com/QuberiqTechnologies)</div>
 
 ---
 
@@ -66,9 +67,11 @@ Have a website, eCommerce, API integration, payment integration, SaaS, or custom
 
 ### CMS, eCommerce & Website Builders
 
-<img src="https://skillicons.dev/icons?i=wordpress,webflow,shopify,figma,html,css,js&theme=dark&perline=9" alt="Technology icons" />
-
-**WordPress · Shopify · Webflow · Framer · Custom Themes & Plugins**
+<img src="https://skillicons.dev/icons?i=wordpress,webflow&theme=dark&perline=2" height="48" alt="WordPress and Webflow" />
+<a href="https://www.framer.com/"><img src="./assets/icons/framer.svg" height="48" alt="Framer" /></a>
+<a href="https://www.shopify.com/"><img src="./assets/icons/shopify.svg" height="48" alt="Shopify" /></a>
+<img src="https://skillicons.dev/icons?i=figma,html,css,js&theme=dark&perline=4" height="48" alt="Figma, HTML5, CSS3 and JavaScript" />
+<img src="./assets/icons/liquid.svg" height="48" alt="Shopify Liquid" />
 
 ### Databases & Cloud
 
@@ -78,7 +81,7 @@ Have a website, eCommerce, API integration, payment integration, SaaS, or custom
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,postman,vscode,figma,ps,ai&theme=dark&perline=9" alt="Technology icons" />
 
-**REST APIs · Payment Integrations · Playwright · SaaS · GitHub Actions**
+<img src="./assets/icons/playwright.svg" height="48" alt="Playwright" />
 
 </div>
 
